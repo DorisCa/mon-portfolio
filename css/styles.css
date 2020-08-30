@@ -21,7 +21,8 @@
 .logo {
     height:50px;
     width: 50px;
-   
+    margin-top: 30px; 
+    margin-left: 50px;
     }
 
 .container{
@@ -289,6 +290,10 @@
 
 .logiciels_langages, .les_outils{
     margin: 80px;
+}
+
+.description_outils{
+    text-align: center;
 }
 
 .outil_html5, .outil_css3, .outil_js, .outil_bp, .outil_wp img {
