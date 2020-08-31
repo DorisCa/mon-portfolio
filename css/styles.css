@@ -129,7 +129,7 @@
      
  }
 
- h1{
+ .integratrice{
      width: 400px;
      margin-top: 150px;
      font-family: "Roboto.ttf", sans-serif;
@@ -187,7 +187,7 @@
      height: 650px;
 
  }
- .caisse, .fashion {
+ .caisse_index, .fashion_index {
     width: 400px;
     height: 400px;
     margin-top: 210px;
@@ -336,4 +336,41 @@
 }
 .mon_cv > a:visited{
     color: rgb(255, 255, 255);
+}
+
+.box_conception{
+    background-color:#FFE1F9;
+    width: 100%;
+    margin-top: 50px;
+}
+ 
+
+.contexte{
+    width: 200px;
+    text-align: center;
+}
+.sum_role{
+    background-color:#FFFF;
+    display: flex;
+}
+.block01{
+    display: flex;
+}
+.caisse{
+    margin-top: 100px;
+}
+
+.box_sum{
+    width: 200px;
+}
+.box_role{
+    width: 200px;
+}
+.row_outils_1{
+    display: flex;
+}
+
+.outil_ps img, .outil_ill img, .outil_Ind img{
+    width: 50px;
+    height: 50px;
 }
