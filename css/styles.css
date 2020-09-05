@@ -342,6 +342,7 @@
     background-color:#FFE1F9;
     width: 100%;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
  
 
@@ -352,6 +353,8 @@
 .sum_role{
     background-color:#FFFF;
     display: flex;
+    padding-top: 50px;
+    padding-left:460px;
 }
 .block01{
     display: flex;
@@ -361,16 +364,38 @@
 }
 
 .box_sum{
-    width: 200px;
+    width: 300px;
+    padding-bottom: 0px;
 }
 .box_role{
     width: 200px;
+    padding-left:100px;
 }
 .row_outils_1{
     display: flex;
+    padding-top: 20px;
 }
 
 .outil_ps img, .outil_ill img, .outil_Ind img{
     width: 50px;
     height: 50px;
+}
+
+.box_explication{
+    display: flex;
+}
+.block_explications{
+    width: 200px;
+}
+
+.box_sagesse{
+    display: flex;
+    padding-top: 100px;
+    background-color: white;
+}
+
+.texte_experience{
+    background-color: #FFE1F9;
+    width: auto;
+    padding-left: 30px;
 }
