@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="848" viewBox="0 0 824 848">
+  <g id="Logo2" transform="translate(-2740 -2344)">
+    <g id="Rectangle_89" data-name="Rectangle 89" transform="translate(2740 2344)" stroke="#707070" stroke-width="1">
+      <rect width="824" height="848" rx="212" stroke="none"/>
+      <rect x="0.5" y="0.5" width="823" height="847" rx="211.5" fill="none"/>
+    </g>
+    <g id="Groupe_17" data-name="Groupe 17" transform="translate(2504.5 2541)">
+      <path id="Tracé_33" data-name="Tracé 33" d="M0,0V348" transform="translate(314 56.5)" fill="none" stroke="#fff" stroke-width="30"/>
+      <path id="Tracé_31" data-name="Tracé 31" d="M4772.5,11200l279.5,252-279.5,196" transform="translate(-4432.5 -11200)" fill="none" stroke="#fff" stroke-width="30"/>
+      <path id="Tracé_32" data-name="Tracé 32" d="M5052,11200l-279.5,252,279.5,196" transform="translate(-4096.5 -11193)" fill="none" stroke="#f92007" stroke-width="30"/>
+      <g id="Rectangle_97" data-name="Rectangle 97" transform="translate(651.5 -45)" fill="#4674f2" stroke="#707070" stroke-width="1" opacity="0.28">
+        <rect width="348" height="552" stroke="none"/>
+        <rect x="0.5" y="0.5" width="347" height="551" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
