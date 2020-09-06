@@ -291,6 +291,14 @@
 .logiciels_langages, .les_outils{
     margin: 80px;
 }
+.row_outils_1{
+    display: flex;
+}
+
+.outil_ps img, .outil_ill img, .outil_Ind img{
+    width: 50px;
+    height: 50px;
+}
 
 .description_outils{
     text-align: center;
@@ -301,6 +309,7 @@
     height: 100px;
     margin: 10px;
 }
+/**********************FOOTER*********************************/
 
 .icone_linkedin{
     width: 40px;
@@ -337,14 +346,13 @@
 .mon_cv > a:visited{
     color: rgb(255, 255, 255);
 }
-
+/******************Page Conption Web *******/
 .box_conception{
     background-color:#FFE1F9;
     width: 100%;
     margin-top: 50px;
 }
  
-
 .contexte{
     width: 200px;
     text-align: center;
@@ -366,11 +374,7 @@
 .box_role{
     width: 200px;
 }
-.row_outils_1{
-    display: flex;
-}
 
-.outil_ps img, .outil_ill img, .outil_Ind img{
-    width: 50px;
-    height: 50px;
+.bande_verte{
+    background-color: #FFE1F9;
 }
